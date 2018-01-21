@@ -1,0 +1,91 @@
+body{
+  background-image: url(golfballsbg.jpeg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul.navigatio {
+  background-color: White;
+  display:inline-block;
+  list-style: none;
+  margin-top 0;
+  height: 35px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+ul.navigatio li{display: inline-block;
+float: left;
+}
+ul.navigatio a {
+  color:Black;
+  display: block;
+  padding: 10px;
+  text-decoration: underline;
+}
+ul.navigatio a:hover {
+  background-color: black;
+  color: white;
+}
+a:link{color: rgb(0, 100, 0); text-decoration: none;}
+a:hover{color: rgb(100, 0, 0)}
+a:active{color: rgb(255, 255, 255)}
+a:visited{color: rgb(0, 0, 100)}
+{
+  color: red;
+  background-color:rgb(192, 224, 226);
+  font-family: monospace;
+  font-size: 20px;
+}
+{
+  color: red;
+  background-color:rgb(192, 224, 226);
+  font-family: monospace;
+  font-size: 20px;
+}
+{
+  color: red;
+  background-color:rgb(192, 224, 226);
+  font-family: monospace;
+  font-size: 20px;
+}
+body {
+  color: red;
+    background-color:rgb(192, 224, 226);
+  font-family: monospace;
+  font-size: 20px;
+}
+#blueberry {color: blue;}
+
+.navigation {
+  list-style: circle;
+}
+.navigation-link {
+  font-size: 33px;
+}
+.navigation-link {
+  font-family: inherit;
+}
+div
+{padding: 20px;
+border: 5px solid red;
+margin: auto;
+width: 20%;
+}
+img{
+width: 500px;
+height: 300px;
+}
+p strong {
+  color: black
+}
+/* .sidebar {
+  float: left;
+  width: 30%
+}
+.content {
+  float right;
+  width:65%;
+} */
+img:hover{box-shadow: 20px 20px red;}
